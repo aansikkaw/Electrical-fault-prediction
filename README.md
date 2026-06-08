@@ -11,7 +11,7 @@
 ## 📌 Executive Summary
 This repository contains the research and codebase for an applied machine learning project intersecting **Data Science** and **Power Systems Engineering**. 
 
-The objective was to evaluate various machine learning architectures for the automated detection and classification of faults in electrical transmission lines using raw current and voltage data. The findings of this project were formally presented at the **National Symposium on Engineering Systems (NSES) in May 2024**.
+The objective was to evaluate various machine learning architectures for the automated detection and classification of faults in electrical transmission lines using raw current and voltage data. The findings of this project were formally presented at the **National Student Energy Summit (NSES) in May 2024**.
 
 ---
 
@@ -52,5 +52,5 @@ Unlike many ML projects that claim 100% accuracy in a vacuum, this research yiel
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_GITHUB_HANDLE/electrical-fault-prediction.git](https://github.com/YOUR_GITHUB_HANDLE/electrical-fault-prediction.git)
+git clone https://github.com/aansikkaw/electrical-fault-prediction.git
 cd electrical-fault-prediction
